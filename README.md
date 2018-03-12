@@ -1,5 +1,5 @@
 # vbscript
-vbscripts for system administration
+Simple vbscripts for system administration
 
 Follow instructions within each script
 
