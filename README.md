@@ -11,5 +11,6 @@ BOOT_CONFIG.VBS - Checks list of computers for their boot configurations then ou
 
 PRODUCTS_ALL.VBS - Checks list of computers for their installed programs then outputs results to a file
 
+MORE WILL BE POSTED AT A LATER TIME.
 
 
